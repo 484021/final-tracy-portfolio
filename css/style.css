@@ -56,6 +56,12 @@ figure {
   margin-bottom: 2em;
 }
 
+input, textarea {
+  width: 100%;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
 ::-webkit-selection {
   color: #fcfcfc;
   background: #2da9d7;
